@@ -7,10 +7,10 @@ namespace ConsApp_5
         static void Main(string[] args)
         {
             Console.Write("Enter the number of employees: ");
-            int numOfEmployees = Convert.ToInt32(Console.ReadLine());
+            int numOfEmployees = int.Parse(Console.ReadLine());
 
             Console.Write("Enter the number of working days for each employee: ");
-            int numOfDays = Convert.ToInt32(Console.ReadLine());
+            int numOfDays = int.Parse(Console.ReadLine());
 
             // Create the jagged array
             int[][] salaries = new int[numOfEmployees][];
@@ -23,7 +23,7 @@ namespace ConsApp_5
                 for (int j = 0; j < numOfDays; j++)
                 {
                     Console.Write($"Enter the salary for Day {j + 1} of Employee {i + 1}: ");
-                    salaries[i][j] = Convert.ToInt32(Console.ReadLine());
+                    salaries[i][j] = int.Parse(Console.ReadLine());
                 }
             }
 

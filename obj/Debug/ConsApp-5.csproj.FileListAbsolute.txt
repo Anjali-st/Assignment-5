@@ -1,0 +1,8 @@
+D:\DotNet\DAY 1\Day-5\ConsApp-5\bin\Debug\ConsApp-5.exe.config
+D:\DotNet\DAY 1\Day-5\ConsApp-5\bin\Debug\ConsApp-5.exe
+D:\DotNet\DAY 1\Day-5\ConsApp-5\bin\Debug\ConsApp-5.pdb
+D:\DotNet\DAY 1\Day-5\ConsApp-5\obj\Debug\ConsApp-5.csproj.AssemblyReference.cache
+D:\DotNet\DAY 1\Day-5\ConsApp-5\obj\Debug\ConsApp-5.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\DAY 1\Day-5\ConsApp-5\obj\Debug\ConsApp-5.csproj.CoreCompileInputs.cache
+D:\DotNet\DAY 1\Day-5\ConsApp-5\obj\Debug\ConsApp-5.exe
+D:\DotNet\DAY 1\Day-5\ConsApp-5\obj\Debug\ConsApp-5.pdb
